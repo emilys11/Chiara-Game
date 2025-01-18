@@ -2,7 +2,7 @@ Simple clicker game made with Java. No game engine or framework used, everything
 
 --REQUIREMENTS--
 
-You need Java to be able to run Chiara.jar
+You need Java to be able to run chiara.jar
 
 --CREDITS--
 
