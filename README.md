@@ -6,7 +6,7 @@ You need Java to be able to run chiara.jar
 
 --CREDITS--
 
-Production, artwork, script done by me.
+Design, artwork, script done by me.
 
 Background images:-------------------------------
 
