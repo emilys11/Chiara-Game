@@ -1,3 +1,10 @@
+
+![chiara_image1](https://github.com/user-attachments/assets/44ad41b3-e7b2-435d-a715-4808b384da28)
+![chiara_image3](https://github.com/user-attachments/assets/33bee8cc-dd17-44a7-89f4-e6f3ca2202eb)
+![chiara_image2](https://github.com/user-attachments/assets/43e22571-6513-4c31-87b2-3c568149480c)
+![chiara_image4](https://github.com/user-attachments/assets/15ba31ff-ded0-4438-9ae3-381704dd6e81)
+
+
 Simple clicker game made with Java. No game engine or framework used, everything is made from scratch! :)
 
 --REQUIREMENTS--
